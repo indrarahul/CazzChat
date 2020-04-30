@@ -7,4 +7,3 @@ A chat app made up with Flutter and Firebase
 
 ### Chat Screen
 ![Alt text](screenshots/2.png)
-![Alt text](screenshots/3.png)

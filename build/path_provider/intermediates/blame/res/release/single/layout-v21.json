@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/z3r0/Desktop/store_room/chatapp/build/path_provider/intermediates/res/merged/release/layout-v21/notification_template_custom_big.xml",
+        "source": "/home/z3r0/.gradle/caches/transforms-2/files-2.1/c1da7862c7abb8e426855a3f78caf221/core-1.0.0/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/home/z3r0/Desktop/store_room/chatapp/build/path_provider/intermediates/res/merged/release/layout-v21/notification_action_tombstone.xml",
+        "source": "/home/z3r0/.gradle/caches/transforms-2/files-2.1/c1da7862c7abb8e426855a3f78caf221/core-1.0.0/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/home/z3r0/Desktop/store_room/chatapp/build/path_provider/intermediates/res/merged/release/layout-v21/notification_template_icon_group.xml",
+        "source": "/home/z3r0/.gradle/caches/transforms-2/files-2.1/c1da7862c7abb8e426855a3f78caf221/core-1.0.0/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/home/z3r0/Desktop/store_room/chatapp/build/path_provider/intermediates/res/merged/release/layout-v21/notification_action.xml",
+        "source": "/home/z3r0/.gradle/caches/transforms-2/files-2.1/c1da7862c7abb8e426855a3f78caf221/core-1.0.0/res/layout-v21/notification_action.xml"
+    }
+]

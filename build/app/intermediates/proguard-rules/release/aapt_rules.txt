@@ -1,0 +1,28 @@
+# Referenced at /home/z3r0/Desktop/store_room/chatapp/build/app/intermediates/merged_manifests/release/AndroidManifest.xml:23
+-keep class androidx.core.app.CoreComponentFactory { <init>(); }
+# Referenced at /home/z3r0/Desktop/store_room/chatapp/build/app/intermediates/merged_manifests/release/AndroidManifest.xml:28
+-keep class com.example.chatapp.MainActivity { <init>(); }
+# Referenced at /home/z3r0/Desktop/store_room/chatapp/build/app/intermediates/merged_manifests/release/AndroidManifest.xml:113
+-keep class com.google.android.gms.auth.api.signin.RevocationBoundService { <init>(); }
+# Referenced at /home/z3r0/Desktop/store_room/chatapp/build/app/intermediates/merged_manifests/release/AndroidManifest.xml:104
+-keep class com.google.android.gms.auth.api.signin.internal.SignInHubActivity { <init>(); }
+# Referenced at /home/z3r0/Desktop/store_room/chatapp/build/app/intermediates/merged_manifests/release/AndroidManifest.xml:141
+-keep class com.google.android.gms.common.api.GoogleApiActivity { <init>(); }
+# Referenced at /home/z3r0/Desktop/store_room/chatapp/build/app/intermediates/merged_manifests/release/AndroidManifest.xml:84
+-keep class com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver { <init>(); }
+# Referenced at /home/z3r0/Desktop/store_room/chatapp/build/app/intermediates/merged_manifests/release/AndroidManifest.xml:98
+-keep class com.google.android.gms.measurement.AppMeasurementJobService { <init>(); }
+# Referenced at /home/z3r0/Desktop/store_room/chatapp/build/app/intermediates/merged_manifests/release/AndroidManifest.xml:79
+-keep class com.google.android.gms.measurement.AppMeasurementReceiver { <init>(); }
+# Referenced at /home/z3r0/Desktop/store_room/chatapp/build/app/intermediates/merged_manifests/release/AndroidManifest.xml:94
+-keep class com.google.android.gms.measurement.AppMeasurementService { <init>(); }
+# Referenced at /home/z3r0/Desktop/store_room/chatapp/build/app/intermediates/merged_manifests/release/AndroidManifest.xml:118
+-keep class com.google.firebase.auth.internal.FederatedSignInActivity { <init>(); }
+# Referenced at /home/z3r0/Desktop/store_room/chatapp/build/app/intermediates/merged_manifests/release/AndroidManifest.xml:49
+-keep class com.google.firebase.components.ComponentDiscoveryService { <init>(); }
+# Referenced at /home/z3r0/Desktop/store_room/chatapp/build/app/intermediates/merged_manifests/release/AndroidManifest.xml:126
+-keep class com.google.firebase.iid.FirebaseInstanceIdReceiver { <init>(); }
+# Referenced at /home/z3r0/Desktop/store_room/chatapp/build/app/intermediates/merged_manifests/release/AndroidManifest.xml:135
+-keep class com.google.firebase.provider.FirebaseInitProvider { <init>(); }
+# Referenced at /home/z3r0/Desktop/store_room/chatapp/build/app/intermediates/merged_manifests/release/AndroidManifest.xml:23
+-keep class io.flutter.app.FlutterApplication { <init>(); }

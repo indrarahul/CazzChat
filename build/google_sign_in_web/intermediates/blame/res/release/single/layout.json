@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/home/z3r0/Desktop/store_room/chatapp/build/google_sign_in_web/intermediates/res/merged/release/layout/notification_action_tombstone.xml",
+        "source": "/home/z3r0/.gradle/caches/transforms-2/files-2.1/c1da7862c7abb8e426855a3f78caf221/core-1.0.0/res/layout/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/home/z3r0/Desktop/store_room/chatapp/build/google_sign_in_web/intermediates/res/merged/release/layout/notification_template_part_time.xml",
+        "source": "/home/z3r0/.gradle/caches/transforms-2/files-2.1/c1da7862c7abb8e426855a3f78caf221/core-1.0.0/res/layout/notification_template_part_time.xml"
+    },
+    {
+        "merged": "/home/z3r0/Desktop/store_room/chatapp/build/google_sign_in_web/intermediates/res/merged/release/layout/notification_template_icon_group.xml",
+        "source": "/home/z3r0/.gradle/caches/transforms-2/files-2.1/c1da7862c7abb8e426855a3f78caf221/core-1.0.0/res/layout/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/home/z3r0/Desktop/store_room/chatapp/build/google_sign_in_web/intermediates/res/merged/release/layout/notification_action.xml",
+        "source": "/home/z3r0/.gradle/caches/transforms-2/files-2.1/c1da7862c7abb8e426855a3f78caf221/core-1.0.0/res/layout/notification_action.xml"
+    },
+    {
+        "merged": "/home/z3r0/Desktop/store_room/chatapp/build/google_sign_in_web/intermediates/res/merged/release/layout/notification_template_part_chronometer.xml",
+        "source": "/home/z3r0/.gradle/caches/transforms-2/files-2.1/c1da7862c7abb8e426855a3f78caf221/core-1.0.0/res/layout/notification_template_part_chronometer.xml"
+    }
+]

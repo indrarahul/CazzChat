@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/z3r0/Desktop/store_room/chatapp/build/hexcolor/intermediates/res/merged/release/drawable/notification_tile_bg.xml",
+        "source": "/home/z3r0/.gradle/caches/transforms-2/files-2.1/c1da7862c7abb8e426855a3f78caf221/core-1.0.0/res/drawable/notification_tile_bg.xml"
+    },
+    {
+        "merged": "/home/z3r0/Desktop/store_room/chatapp/build/hexcolor/intermediates/res/merged/release/drawable/notification_bg.xml",
+        "source": "/home/z3r0/.gradle/caches/transforms-2/files-2.1/c1da7862c7abb8e426855a3f78caf221/core-1.0.0/res/drawable/notification_bg.xml"
+    },
+    {
+        "merged": "/home/z3r0/Desktop/store_room/chatapp/build/hexcolor/intermediates/res/merged/release/drawable/notification_bg_low.xml",
+        "source": "/home/z3r0/.gradle/caches/transforms-2/files-2.1/c1da7862c7abb8e426855a3f78caf221/core-1.0.0/res/drawable/notification_bg_low.xml"
+    },
+    {
+        "merged": "/home/z3r0/Desktop/store_room/chatapp/build/hexcolor/intermediates/res/merged/release/drawable/notification_icon_background.xml",
+        "source": "/home/z3r0/.gradle/caches/transforms-2/files-2.1/c1da7862c7abb8e426855a3f78caf221/core-1.0.0/res/drawable/notification_icon_background.xml"
+    }
+]

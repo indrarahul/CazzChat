@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/home/z3r0/Desktop/store_room/chatapp/build/google_sign_in/intermediates/res/merged/release/drawable-watch-v20/common_google_signin_btn_text_light_normal.xml",
+        "source": "/home/z3r0/.gradle/caches/transforms-2/files-2.1/980eeb2712129d122e4f008fe9f19b84/jetified-play-services-auth-16.0.1/res/drawable-watch-v20/common_google_signin_btn_text_light_normal.xml"
+    },
+    {
+        "merged": "/home/z3r0/Desktop/store_room/chatapp/build/google_sign_in/intermediates/res/merged/release/drawable-watch-v20/common_google_signin_btn_text_disabled.xml",
+        "source": "/home/z3r0/.gradle/caches/transforms-2/files-2.1/980eeb2712129d122e4f008fe9f19b84/jetified-play-services-auth-16.0.1/res/drawable-watch-v20/common_google_signin_btn_text_disabled.xml"
+    },
+    {
+        "merged": "/home/z3r0/Desktop/store_room/chatapp/build/google_sign_in/intermediates/res/merged/release/drawable-watch-v20/common_google_signin_btn_text_dark_normal.xml",
+        "source": "/home/z3r0/.gradle/caches/transforms-2/files-2.1/980eeb2712129d122e4f008fe9f19b84/jetified-play-services-auth-16.0.1/res/drawable-watch-v20/common_google_signin_btn_text_dark_normal.xml"
+    }
+]
